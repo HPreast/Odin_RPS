@@ -5,3 +5,7 @@ function getComputerChoice(arr) {
     return arr[randomIndex];
 }
 console.log(getComputerChoice(choices));
+
+function playRound(playerSelection, computerSelection) {
+    return
+}
